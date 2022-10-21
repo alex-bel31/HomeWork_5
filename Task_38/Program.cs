@@ -28,4 +28,4 @@ return difference;
 }  
 int difference = DifferenceMaxMin(input);
 string inputString = string.Join(", ", input);
-Console.WriteLine($"[{inputString}] -> {(difference)}");
+Console.WriteLine($"[{inputString}] -> {difference}");
